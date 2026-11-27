@@ -29,7 +29,7 @@ jobs:
             echo "$1 -> $ver"
           }
           bump hanwell ClayShentrup/hanwell Hanwell.pkg
-          bump kintsugi ClayShentrup/kintsugi Kintsugi.pkg
+          bump rindu ClayShentrup/rindu Rindu.pkg
           bump unterholz-uh20 ClayShentrup/unterholz-uh20 Unterholz-UH-20.pkg
           if ! git diff --quiet; then
             git config user.name "github-actions[bot]"
