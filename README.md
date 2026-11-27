@@ -1,6 +1,10 @@
 # homebrew-tap
 
-Homebrew casks for three open-source guitar amp plug-ins (VST3, AU, CLAP and a standalone app):
+Homebrew casks for three open-source guitar amp plug-ins (VST3, AU, CLAP and a standalone app). Trust the tap once, then install any of them:
+
+```
+brew trust clayshentrup/tap
+```
 
 | Amp | Install | Listen |
 |---|---|---|
