@@ -1,6 +1,6 @@
 cask "kintsugi" do
-  version "1.0.1"
-  sha256 "7378f66ac6071891f5e45656ddb2dc3cc0666280dd0966853bde64305b22e248"
+  version "1.0.2"
+  sha256 "3e5d5df0cf297f06b61e6c15c0f239eaff3fbbcbb5217cb586cd3c2fbdb15eda"
 
   url "https://github.com/ClayShentrup/kintsugi/releases/download/v#{version}/Kintsugi.pkg"
   name "Kintsugi"
