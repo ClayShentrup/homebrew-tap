@@ -1,6 +1,6 @@
 cask "hanwell" do
-  version "1.0.3"
-  sha256 "ced594bd0dfb72cb3b4b0df4e22c8d3e1cf04f75aa7ed362f15a2a3783fbbb74"
+  version "1.0.4"
+  sha256 "b1d8b25e23c49fb51f5d5b82c603c72a8005fc0ff4501c29297831c1c1e054b1"
 
   url "https://github.com/ClayShentrup/hanwell/releases/download/v#{version}/Hanwell.pkg"
   name "Hanwell"
