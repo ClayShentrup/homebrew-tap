@@ -1,6 +1,6 @@
 cask "unterholz-uh20" do
-  version "0.3.0"
-  sha256 "9c24c307d4634fa031455ce4fb3d37bc79267cc14f8ec5c6db54cbd5107587ff"
+  version "0.3.1"
+  sha256 "0196928802fd8bde0bafc4b0c7ab1a7894e858301cd9d0e4dc1034da94eefa38"
 
   url "https://github.com/ClayShentrup/unterholz-uh20/releases/download/v#{version}/Unterholz-UH-20.pkg"
   name "Unterholz UH-20"
