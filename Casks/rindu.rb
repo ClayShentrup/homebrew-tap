@@ -1,6 +1,6 @@
 cask "rindu" do
-  version "2.1.0"
-  sha256 "10f5c31f6817518d61641c74b23d4ada73f2c119cd9d19af3e5a8dc17a286270"
+  version "2.1.1"
+  sha256 "ce37bc89d9fb2643e06181a68be83874d09f54e0a0baf95a1c896f3cf87692f8"
 
   url "https://github.com/ClayShentrup/rindu/releases/download/v#{version}/Rindu.pkg"
   name "Rindu"
